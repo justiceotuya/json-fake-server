@@ -28,5 +28,1914 @@
       "numberOfCenters": 1,
       "state": "Kogi"
     }
+  ],
+  "Gombe": [],
+  "Kaduna": [
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "3:30pm",
+              "start": "1:30pm"
+            },
+            "centerName": "Martha Clayton",
+            "centerRefNumber": "929",
+            "id": 1,
+            "numberOfStaff": "987",
+            "sessionDuration": "30 minutes",
+            "workingHours": {
+              "end": "8:30am",
+              "start": "3:30pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "6:30am",
+              "start": "5:00pm"
+            },
+            "centerName": "Salvador Pate",
+            "centerRefNumber": "861",
+            "id": 2,
+            "numberOfStaff": "342",
+            "sessionDuration": "1 hour, 30 minutes",
+            "workingHours": {
+              "end": "6:30pm",
+              "start": "8:30am"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "12:30pm",
+              "start": "9:30am"
+            },
+            "centerName": "Lucy Ortiz",
+            "centerRefNumber": "273",
+            "id": 3,
+            "numberOfStaff": "884",
+            "sessionDuration": "1 hour",
+            "workingHours": {
+              "end": "12:30pm",
+              "start": "6:00pm"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Kaduna"
+      }
+    ]
+  ],
+  "Abia": [
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "8:30pm",
+              "start": "8:30pm"
+            },
+            "centerName": "Ariel Scott",
+            "centerRefNumber": "642",
+            "id": 1,
+            "numberOfStaff": "589",
+            "sessionDuration": "50 minutes",
+            "workingHours": {
+              "end": "8:30pm",
+              "start": "6:30pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "9:00am",
+              "start": "2:00pm"
+            },
+            "centerName": "Anika Fulton",
+            "centerRefNumber": "350",
+            "id": 2,
+            "numberOfStaff": "983",
+            "sessionDuration": "1 hour, 30 minutes",
+            "workingHours": {
+              "end": "8:00am",
+              "start": "2:30pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "6:30pm",
+              "start": "9:00am"
+            },
+            "centerName": "Hu Ware",
+            "centerRefNumber": "28",
+            "id": 3,
+            "numberOfStaff": "991",
+            "sessionDuration": "30 minutes",
+            "workingHours": {
+              "end": "2:00pm",
+              "start": "2:30pm"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Abia"
+      }
+    ]
+  ],
+  "Adamawa": [
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "8:00pm",
+              "start": "6:30am"
+            },
+            "centerName": "Ciaran Walton",
+            "centerRefNumber": "416",
+            "id": 1,
+            "numberOfStaff": "889",
+            "sessionDuration": "1 hour",
+            "workingHours": {
+              "end": "2:00pm",
+              "start": "6:30am"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "7:30am",
+              "start": "10:30am"
+            },
+            "centerName": "Minerva Herman",
+            "centerRefNumber": "452",
+            "id": 2,
+            "numberOfStaff": "553",
+            "sessionDuration": "20 minutes",
+            "workingHours": {
+              "end": "11:00am",
+              "start": "2:30pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "5:00pm",
+              "start": "12:00"
+            },
+            "centerName": "Dara Cummings",
+            "centerRefNumber": "116",
+            "id": 3,
+            "numberOfStaff": "837",
+            "sessionDuration": "30 minutes",
+            "workingHours": {
+              "end": "5:30pm",
+              "start": "6:00am"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Adamawa"
+      }
+    ]
+  ],
+  "Anambra": [],
+  "Bauchi": [
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "8:00pm",
+              "start": "6:30am"
+            },
+            "centerName": "Ciaran Walton",
+            "centerRefNumber": "416",
+            "id": 1,
+            "numberOfStaff": "889",
+            "sessionDuration": "1 hour",
+            "workingHours": {
+              "end": "2:00pm",
+              "start": "6:30am"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "7:30am",
+              "start": "10:30am"
+            },
+            "centerName": "Minerva Herman",
+            "centerRefNumber": "452",
+            "id": 2,
+            "numberOfStaff": "553",
+            "sessionDuration": "20 minutes",
+            "workingHours": {
+              "end": "11:00am",
+              "start": "2:30pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "5:00pm",
+              "start": "12:00"
+            },
+            "centerName": "Dara Cummings",
+            "centerRefNumber": "116",
+            "id": 3,
+            "numberOfStaff": "837",
+            "sessionDuration": "30 minutes",
+            "workingHours": {
+              "end": "5:30pm",
+              "start": "6:00am"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Bauchi"
+      }
+    ]
+  ],
+  "Bayelsa": [
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "8:30am",
+              "start": "6:30pm"
+            },
+            "centerName": "Francis Pittman",
+            "centerRefNumber": "401",
+            "id": 1,
+            "numberOfStaff": "296",
+            "sessionDuration": "45 minutes",
+            "workingHours": {
+              "end": "2:00pm",
+              "start": "3:00pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "1:00pm",
+              "start": "11:00am"
+            },
+            "centerName": "Armando Hurley",
+            "centerRefNumber": "651",
+            "id": 2,
+            "numberOfStaff": "638",
+            "sessionDuration": "2 hours",
+            "workingHours": {
+              "end": "12:30pm",
+              "start": "4:30pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "4:00pm",
+              "start": "7:30pm"
+            },
+            "centerName": "August Galloway",
+            "centerRefNumber": "905",
+            "id": 3,
+            "numberOfStaff": "902",
+            "sessionDuration": "10 minutes",
+            "workingHours": {
+              "end": "11:30am",
+              "start": "2:00pm"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Bayelsa"
+      }
+    ],
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "10:00am",
+              "start": "11:00am"
+            },
+            "centerName": "Shana Smith",
+            "centerRefNumber": "917",
+            "id": 1,
+            "numberOfStaff": "384",
+            "sessionDuration": "30 minutes",
+            "workingHours": {
+              "end": "1:30pm",
+              "start": "10:30am"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "10:30am",
+              "start": "11:00am"
+            },
+            "centerName": "Hedda Bright",
+            "centerRefNumber": "7",
+            "id": 2,
+            "numberOfStaff": "761",
+            "sessionDuration": "40 minutes",
+            "workingHours": {
+              "end": "3:30pm",
+              "start": "2:30pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "7:00am",
+              "start": "11:30am"
+            },
+            "centerName": "Alexis Wright",
+            "centerRefNumber": "71",
+            "id": 3,
+            "numberOfStaff": "330",
+            "sessionDuration": "55 minutes",
+            "workingHours": {
+              "end": "12:30pm",
+              "start": "6:30am"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Bayelsa"
+      }
+    ]
+  ],
+  "Benue": [],
+  "Borno": [],
+  "Delta": [
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "1:00pm",
+              "start": "2:00pm"
+            },
+            "centerName": "Ivory Pope",
+            "centerRefNumber": "862",
+            "id": 1,
+            "numberOfStaff": "359",
+            "sessionDuration": "40 minutes",
+            "workingHours": {
+              "end": "6:00am",
+              "start": "12:00"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "7:00pm",
+              "start": "5:00pm"
+            },
+            "centerName": "Oliver Avery",
+            "centerRefNumber": "135",
+            "id": 2,
+            "numberOfStaff": "882",
+            "sessionDuration": "10 minutes",
+            "workingHours": {
+              "end": "6:30pm",
+              "start": "4:30pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "1:00pm",
+              "start": "8:00pm"
+            },
+            "centerName": "Ora Whitehead",
+            "centerRefNumber": "282",
+            "id": 3,
+            "numberOfStaff": "163",
+            "sessionDuration": "10 minutes",
+            "workingHours": {
+              "end": "8:30pm",
+              "start": "3:00pm"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Delta"
+      }
+    ],
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "1:00pm",
+              "start": "12:00"
+            },
+            "centerName": "Bo Clements",
+            "centerRefNumber": "619",
+            "id": 1,
+            "numberOfStaff": "719",
+            "sessionDuration": "55 minutes",
+            "workingHours": {
+              "end": "12:00",
+              "start": "8:00am"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "6:00pm",
+              "start": "11:00am"
+            },
+            "centerName": "Jada Stuart",
+            "centerRefNumber": "927",
+            "id": 2,
+            "numberOfStaff": "581",
+            "sessionDuration": "25 minutes",
+            "workingHours": {
+              "end": "5:00pm",
+              "start": "11:00am"
+            }
+          }
+        ],
+        "numberOfCenters": "2",
+        "state": "Delta"
+      }
+    ]
+  ],
+  "Ebonyi": [
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "10:00am",
+              "start": "3:00pm"
+            },
+            "centerName": "Candice Barr",
+            "centerRefNumber": "607",
+            "id": 1,
+            "numberOfStaff": "186",
+            "sessionDuration": "35 minutes",
+            "workingHours": {
+              "end": "6:30am",
+              "start": "7:00pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "11:30am",
+              "start": "7:00pm"
+            },
+            "centerName": "Kimberley Watts",
+            "centerRefNumber": "337",
+            "id": 2,
+            "numberOfStaff": "106",
+            "sessionDuration": "50 minutes",
+            "workingHours": {
+              "end": "1:00pm",
+              "start": "12:00"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "7:30am",
+              "start": "6:00pm"
+            },
+            "centerName": "Amir Emerson",
+            "centerRefNumber": "902",
+            "id": 3,
+            "numberOfStaff": "54",
+            "sessionDuration": "2 hours",
+            "workingHours": {
+              "end": "6:30am",
+              "start": "7:00am"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Ebonyi"
+      }
+    ]
+  ],
+  "Edo": [],
+  "Ekiti": [
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "4:00pm",
+              "start": "7:00am"
+            },
+            "centerName": "Kaye Carroll",
+            "centerRefNumber": "516",
+            "id": 1,
+            "numberOfStaff": "918",
+            "sessionDuration": "40 minutes",
+            "workingHours": {
+              "end": "11:30am",
+              "start": "3:00pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "12:30pm",
+              "start": "4:00pm"
+            },
+            "centerName": "Alfreda Mcknight",
+            "centerRefNumber": "557",
+            "id": 2,
+            "numberOfStaff": "230",
+            "sessionDuration": "10 minutes",
+            "workingHours": {
+              "end": "11:00am",
+              "start": "4:30pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "6:30pm",
+              "start": "8:30am"
+            },
+            "centerName": "David Gibson",
+            "centerRefNumber": "22",
+            "id": 3,
+            "numberOfStaff": "110",
+            "sessionDuration": "20 minutes",
+            "workingHours": {
+              "end": "9:00am",
+              "start": "9:30am"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Ekiti"
+      }
+    ]
+  ],
+  "Enugu": [],
+  "Imo": [
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "8:00pm",
+              "start": "6:30am"
+            },
+            "centerName": "Ciaran Walton",
+            "centerRefNumber": "416",
+            "id": 1,
+            "numberOfStaff": "889",
+            "sessionDuration": "1 hour",
+            "workingHours": {
+              "end": "2:00pm",
+              "start": "6:30am"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "7:30am",
+              "start": "10:30am"
+            },
+            "centerName": "Minerva Herman",
+            "centerRefNumber": "452",
+            "id": 2,
+            "numberOfStaff": "553",
+            "sessionDuration": "20 minutes",
+            "workingHours": {
+              "end": "11:00am",
+              "start": "2:30pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "5:00pm",
+              "start": "12:00"
+            },
+            "centerName": "Dara Cummings",
+            "centerRefNumber": "116",
+            "id": 3,
+            "numberOfStaff": "837",
+            "sessionDuration": "30 minutes",
+            "workingHours": {
+              "end": "5:30pm",
+              "start": "6:00am"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Imo"
+      }
+    ]
+  ],
+  "Jigawa": [
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "11:30am",
+              "start": "1:30pm"
+            },
+            "centerName": "Jack Burgess",
+            "centerRefNumber": "303",
+            "id": 1,
+            "numberOfStaff": "587",
+            "sessionDuration": "40 minutes",
+            "workingHours": {
+              "end": "12:00",
+              "start": "6:00pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "12:00",
+              "start": "3:00pm"
+            },
+            "centerName": "Hoyt Fuentes",
+            "centerRefNumber": "552",
+            "id": 2,
+            "numberOfStaff": "26",
+            "sessionDuration": "55 minutes",
+            "workingHours": {
+              "end": "7:00pm",
+              "start": "8:30am"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "5:30pm",
+              "start": "10:00am"
+            },
+            "centerName": "Anjolie Petersen",
+            "centerRefNumber": "176",
+            "id": 3,
+            "numberOfStaff": "1000",
+            "sessionDuration": "20 minutes",
+            "workingHours": {
+              "end": "9:00am",
+              "start": "3:00pm"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Jigawa"
+      }
+    ]
+  ],
+  "Kano": [
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "2:00pm",
+              "start": "7:30pm"
+            },
+            "centerName": "Salvador Orr",
+            "centerRefNumber": "158",
+            "id": 1,
+            "numberOfStaff": "115",
+            "sessionDuration": "45 minutes",
+            "workingHours": {
+              "end": "11:30am",
+              "start": "6:00am"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "6:00am",
+              "start": "10:30am"
+            },
+            "centerName": "Cleo Rosa",
+            "centerRefNumber": "667",
+            "id": 2,
+            "numberOfStaff": "1000",
+            "sessionDuration": "2 hours",
+            "workingHours": {
+              "end": "6:00pm",
+              "start": "9:30am"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "4:30pm",
+              "start": "7:30pm"
+            },
+            "centerName": "Molly Michael",
+            "centerRefNumber": "602",
+            "id": 3,
+            "numberOfStaff": "821",
+            "sessionDuration": "30 minutes",
+            "workingHours": {
+              "end": "7:00pm",
+              "start": "5:00pm"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Kano"
+      }
+    ]
+  ],
+  "Katsina": [],
+  "Kebbi": [
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "8:30am",
+              "start": "9:00am"
+            },
+            "centerName": "Igor Pollard",
+            "centerRefNumber": "165",
+            "id": 1,
+            "numberOfStaff": "919",
+            "sessionDuration": "50 minutes",
+            "workingHours": {
+              "end": "7:00am",
+              "start": "12:00"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "8:00pm",
+              "start": "3:30pm"
+            },
+            "centerName": "Mollie Cantu",
+            "centerRefNumber": "878",
+            "id": 2,
+            "numberOfStaff": "507",
+            "sessionDuration": "50 minutes",
+            "workingHours": {
+              "end": "9:30am",
+              "start": "6:00am"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "11:00am",
+              "start": "8:00am"
+            },
+            "centerName": "Florence Blackwell",
+            "centerRefNumber": "484",
+            "id": 3,
+            "numberOfStaff": "714",
+            "sessionDuration": "1 hour",
+            "workingHours": {
+              "end": "12:30pm",
+              "start": "10:30am"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Kebbi"
+      }
+    ],
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "8:00am",
+              "start": "5:30pm"
+            },
+            "centerName": "Tashya Frazier",
+            "centerRefNumber": "418",
+            "id": 1,
+            "numberOfStaff": "326",
+            "sessionDuration": "10 minutes",
+            "workingHours": {
+              "end": "10:30am",
+              "start": "11:30am"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "1:00pm",
+              "start": "9:30am"
+            },
+            "centerName": "Iona Faulkner",
+            "centerRefNumber": "860",
+            "id": 2,
+            "numberOfStaff": "570",
+            "sessionDuration": "45 minutes",
+            "workingHours": {
+              "end": "6:30am",
+              "start": "8:30pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "9:30am",
+              "start": "7:30am"
+            },
+            "centerName": "Harding Preston",
+            "centerRefNumber": "952",
+            "id": 3,
+            "numberOfStaff": "978",
+            "sessionDuration": "10 minutes",
+            "workingHours": {
+              "end": "11:30am",
+              "start": "6:00am"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Kebbi"
+      }
+    ],
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "9:30am",
+              "start": "7:00pm"
+            },
+            "centerName": "Myra Gilbert",
+            "centerRefNumber": "860",
+            "id": 1,
+            "numberOfStaff": "542",
+            "sessionDuration": "1 hour",
+            "workingHours": {
+              "end": "2:00pm",
+              "start": "7:30am"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "8:00pm",
+              "start": "11:00am"
+            },
+            "centerName": "Calista Lindsay",
+            "centerRefNumber": "47",
+            "id": 2,
+            "numberOfStaff": "855",
+            "sessionDuration": "35 minutes",
+            "workingHours": {
+              "end": "8:30am",
+              "start": "6:00am"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "3:30pm",
+              "start": "4:00pm"
+            },
+            "centerName": "Paloma Keith",
+            "centerRefNumber": "946",
+            "id": 3,
+            "numberOfStaff": "121",
+            "sessionDuration": "2 hours",
+            "workingHours": {
+              "end": "11:30am",
+              "start": "3:30pm"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Kebbi"
+      }
+    ]
+  ],
+  "Kwara": [],
+  "Lagos": [
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "4:00pm",
+              "start": "1:00pm"
+            },
+            "centerName": "Cassandra Bennett",
+            "centerRefNumber": "423",
+            "id": 1,
+            "numberOfStaff": "924",
+            "sessionDuration": "10 minutes",
+            "workingHours": {
+              "end": "4:00pm",
+              "start": "8:00pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "7:00pm",
+              "start": "9:30am"
+            },
+            "centerName": "Willa Holloway",
+            "centerRefNumber": "795",
+            "id": 2,
+            "numberOfStaff": "324",
+            "sessionDuration": "30 minutes",
+            "workingHours": {
+              "end": "11:00am",
+              "start": "7:30am"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "8:30am",
+              "start": "11:30am"
+            },
+            "centerName": "Lars Rodgers",
+            "centerRefNumber": "567",
+            "id": 3,
+            "numberOfStaff": "849",
+            "sessionDuration": "25 minutes",
+            "workingHours": {
+              "end": "3:00pm",
+              "start": "11:00am"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Lagos"
+      }
+    ],
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "7:00am",
+              "start": "9:00am"
+            },
+            "centerName": "Francis Washington",
+            "centerRefNumber": "77",
+            "id": 1,
+            "numberOfStaff": "748",
+            "sessionDuration": "40 minutes",
+            "workingHours": {
+              "end": "1:30pm",
+              "start": "4:00pm"
+            }
+          }
+        ],
+        "numberOfCenters": "1",
+        "state": "Lagos"
+      }
+    ]
+  ],
+  "Nasarawa": [
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "7:30am",
+              "start": "9:30am"
+            },
+            "centerName": "Rama Goff",
+            "centerRefNumber": "409",
+            "id": 1,
+            "numberOfStaff": "291",
+            "sessionDuration": "40 minutes",
+            "workingHours": {
+              "end": "8:30pm",
+              "start": "2:30pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "8:00am",
+              "start": "3:30pm"
+            },
+            "centerName": "Keane Cote",
+            "centerRefNumber": "672",
+            "id": 2,
+            "numberOfStaff": "112",
+            "sessionDuration": "45 minutes",
+            "workingHours": {
+              "end": "1:00pm",
+              "start": "1:30pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "1:30pm",
+              "start": "8:30am"
+            },
+            "centerName": "Galvin Kim",
+            "centerRefNumber": "340",
+            "id": 3,
+            "numberOfStaff": "106",
+            "sessionDuration": "20 minutes",
+            "workingHours": {
+              "end": "3:00pm",
+              "start": "8:00pm"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Nasarawa"
+      }
+    ],
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "7:30am",
+              "start": "9:30am"
+            },
+            "centerName": "Rama Goff",
+            "centerRefNumber": "409",
+            "id": 1,
+            "numberOfStaff": "291",
+            "sessionDuration": "40 minutes",
+            "workingHours": {
+              "end": "8:30pm",
+              "start": "2:30pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "8:00am",
+              "start": "3:30pm"
+            },
+            "centerName": "Keane Cote",
+            "centerRefNumber": "672",
+            "id": 2,
+            "numberOfStaff": "112",
+            "sessionDuration": "45 minutes",
+            "workingHours": {
+              "end": "1:00pm",
+              "start": "1:30pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "1:30pm",
+              "start": "8:30am"
+            },
+            "centerName": "Galvin Kim",
+            "centerRefNumber": "340",
+            "id": 3,
+            "numberOfStaff": "106",
+            "sessionDuration": "20 minutes",
+            "workingHours": {
+              "end": "3:00pm",
+              "start": "8:00pm"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Nasarawa"
+      }
+    ],
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "12:00",
+              "start": "11:30am"
+            },
+            "centerName": "Wesley Barr",
+            "centerRefNumber": "554",
+            "id": 1,
+            "numberOfStaff": "405",
+            "sessionDuration": "55 minutes",
+            "workingHours": {
+              "end": "6:30pm",
+              "start": "7:30pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "8:00am",
+              "start": "10:00am"
+            },
+            "centerName": "Phillip Howell",
+            "centerRefNumber": "472",
+            "id": 2,
+            "numberOfStaff": "607",
+            "sessionDuration": "30 minutes",
+            "workingHours": {
+              "end": "6:30am",
+              "start": "3:00pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "8:30am",
+              "start": "11:00am"
+            },
+            "centerName": "Orli Espinoza",
+            "centerRefNumber": "837",
+            "id": 3,
+            "numberOfStaff": "475",
+            "sessionDuration": "40 minutes",
+            "workingHours": {
+              "end": "10:00am",
+              "start": "4:00pm"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Nasarawa"
+      }
+    ],
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "2:30pm",
+              "start": "9:00am"
+            },
+            "centerName": "Myra Edwards",
+            "centerRefNumber": "615",
+            "id": 1,
+            "numberOfStaff": "709",
+            "sessionDuration": "30 minutes",
+            "workingHours": {
+              "end": "12:00",
+              "start": "5:00pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "10:00am",
+              "start": "6:00pm"
+            },
+            "centerName": "Eagan Pope",
+            "centerRefNumber": "64",
+            "id": 2,
+            "numberOfStaff": "860",
+            "sessionDuration": "35 minutes",
+            "workingHours": {
+              "end": "1:30pm",
+              "start": "7:30pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "2:00pm",
+              "start": "12:30pm"
+            },
+            "centerName": "John Watts",
+            "centerRefNumber": "555",
+            "id": 3,
+            "numberOfStaff": "940",
+            "sessionDuration": "45 minutes",
+            "workingHours": {
+              "end": "8:30am",
+              "start": "8:30pm"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Nasarawa"
+      }
+    ]
+  ],
+  "Niger": [],
+  "Ogun": [],
+  "Ondo": [],
+  "Osun": [],
+  "Oyo": [],
+  "Plateau": [
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "8:00pm",
+              "start": "3:00pm"
+            },
+            "centerName": "Phillip Kramer",
+            "centerRefNumber": "271",
+            "id": 1,
+            "numberOfStaff": "38",
+            "sessionDuration": "10 minutes",
+            "workingHours": {
+              "end": "7:30pm",
+              "start": "8:30pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "6:00am",
+              "start": "8:30pm"
+            },
+            "centerName": "Hedley Decker",
+            "centerRefNumber": "884",
+            "id": 2,
+            "numberOfStaff": "138",
+            "sessionDuration": "1 hour",
+            "workingHours": {
+              "end": "6:00pm",
+              "start": "1:00pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "4:30pm",
+              "start": "11:30am"
+            },
+            "centerName": "Scarlet Blanchard",
+            "centerRefNumber": "669",
+            "id": 3,
+            "numberOfStaff": "377",
+            "sessionDuration": "50 minutes",
+            "workingHours": {
+              "end": "11:30am",
+              "start": "7:30pm"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Plateau"
+      }
+    ]
+  ],
+  "Rivers": [],
+  "Sokoto": [
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "7:30am",
+              "start": "9:30am"
+            },
+            "centerName": "Oprah Zamora",
+            "centerRefNumber": "276",
+            "id": 1,
+            "numberOfStaff": "239",
+            "sessionDuration": "40 minutes",
+            "workingHours": {
+              "end": "11:30am",
+              "start": "9:00am"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "6:00pm",
+              "start": "3:00pm"
+            },
+            "centerName": "Halla Valencia",
+            "centerRefNumber": "181",
+            "id": 2,
+            "numberOfStaff": "738",
+            "sessionDuration": "20 minutes",
+            "workingHours": {
+              "end": "7:00pm",
+              "start": "6:30am"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "3:00pm",
+              "start": "8:00am"
+            },
+            "centerName": "Laurel Fry",
+            "centerRefNumber": "569",
+            "id": 3,
+            "numberOfStaff": "445",
+            "sessionDuration": "15 minutes",
+            "workingHours": {
+              "end": "8:00pm",
+              "start": "1:00pm"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Sokoto"
+      }
+    ]
+  ],
+  "Taraba": [],
+  "Yobe": [
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "9:00am",
+              "start": "7:30pm"
+            },
+            "centerName": "Alexa Olsen",
+            "centerRefNumber": "733",
+            "id": 1,
+            "numberOfStaff": "140",
+            "sessionDuration": "40 minutes",
+            "workingHours": {
+              "end": "9:30am",
+              "start": "11:30am"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": true,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "5:00pm",
+              "start": "6:00am"
+            },
+            "centerName": "Wylie Baker",
+            "centerRefNumber": "988",
+            "id": 2,
+            "numberOfStaff": "840",
+            "sessionDuration": "2 hours",
+            "workingHours": {
+              "end": "7:30pm",
+              "start": "5:00pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": false,
+              "wednesday": true,
+              "thursday": true,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "11:00am",
+              "start": "6:30am"
+            },
+            "centerName": "Graiden Benton",
+            "centerRefNumber": "276",
+            "id": 3,
+            "numberOfStaff": "687",
+            "sessionDuration": "40 minutes",
+            "workingHours": {
+              "end": "5:00pm",
+              "start": "2:30pm"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Yobe"
+      }
+    ]
+  ],
+  "Zamfara": [
+    [
+      {
+        "center": [
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": true,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "8:30am",
+              "start": "2:00pm"
+            },
+            "centerName": "Cherokee Mcdowell",
+            "centerRefNumber": "655",
+            "id": 1,
+            "numberOfStaff": "94",
+            "sessionDuration": "1 hour",
+            "workingHours": {
+              "end": "4:30pm",
+              "start": "7:30pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": false,
+              "tuesday": true,
+              "wednesday": false,
+              "thursday": false,
+              "friday": true
+            },
+            "breakTime": {
+              "end": "7:00pm",
+              "start": "11:30am"
+            },
+            "centerName": "Elmo Barlow",
+            "centerRefNumber": "851",
+            "id": 2,
+            "numberOfStaff": "517",
+            "sessionDuration": "2 hours",
+            "workingHours": {
+              "end": "2:30pm",
+              "start": "5:30pm"
+            }
+          },
+          {
+            "activeDates": {
+              "monday": true,
+              "tuesday": true,
+              "wednesday": true,
+              "thursday": false,
+              "friday": false
+            },
+            "breakTime": {
+              "end": "4:30pm",
+              "start": "11:00am"
+            },
+            "centerName": "Blythe Sexton",
+            "centerRefNumber": "881",
+            "id": 3,
+            "numberOfStaff": "864",
+            "sessionDuration": "30 minutes",
+            "workingHours": {
+              "end": "11:00am",
+              "start": "7:30am"
+            }
+          }
+        ],
+        "numberOfCenters": "3",
+        "state": "Zamfara"
+      }
+    ]
   ]
 }
