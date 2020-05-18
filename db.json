@@ -1,5 +1,44 @@
 {
-  "Abia": [],
+  "Abia": [
+   {
+      "center": [
+        {
+          "activeDates": {
+            "monday": true,
+            "tuesday": false,
+            "wednesday": true,
+            "thursday": true,
+            "friday": true
+          },
+          "breakTime": {
+            "end": [
+              "2020-05-17T12:00:00.000Z"
+            ],
+            "start": [
+              "2020-05-17T11:00:00.000Z"
+            ]
+          },
+          "centerName": "Sandra Hyde",
+          "centerRefNumber": "725",
+          "id": 1,
+          "numberOfStaff": "9",
+          "sessionDuration": "30",
+          "workingHours": {
+            "end": [
+              "2020-05-17T15:00:00.000Z"
+            ],
+            "start": [
+              "2020-05-17T07:00:00.000Z"
+            ]
+          },
+          "totalSlot": 126
+        }
+      ],
+      "numberOfCenters": "1",
+      "state": "Abia",
+      "id": 1
+    }
+  ],
   "Adamawa": [],
   "Anambra": [],
   "Bauchi": [],
